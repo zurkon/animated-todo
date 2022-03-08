@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+
+  # Animated To Do
+
+  <img src="https://raw.githubusercontent.com/Zurkon/repo-assets/main/animated-todo/animated-todo.gif" />
+
+A smoothly animated ToDo build with [`Next.js`](https://nextjs.org/), [`Framer Motion`](https://www.framer.com/motion/) and [`TailwindCSS`](https://tailwindcss.com/).
+
+</div>
+
+## Description
+
+This project was inspired by project [`animated-todo`](https://github.com/craftzdog/react-native-animated-todo) made by [`craftzdog`](https://github.com/craftzdog) using React Native.
+
+But, instead of building with React Native and Reanimated, my challenge was build using [`Framer motion`](https://www.framer.com/motion/), for animation, and [`TailwindCSS`](https://tailwindcss.com/), for styling and Dark Mode.
+
+## Libraries
+
+This project was made using:
+
+- [`Next.js`](https://nextjs.org/) - Library for building user interfaces.
+- [`Framer Motion`](https://www.framer.com/motion/) - A JavaScript 3D Library.
+- [`TailwindCSS`](https://tailwindcss.com/) - A lightweight 3D physics engine written in JavaScript.
 
 ## Getting Started
 
