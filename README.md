@@ -18,9 +18,9 @@ But, instead of building with React Native and Reanimated, my challenge was buil
 
 This project was made using:
 
-- [`Next.js`](https://nextjs.org/) - Library for building user interfaces.
-- [`Framer Motion`](https://www.framer.com/motion/) - A JavaScript 3D Library.
-- [`TailwindCSS`](https://tailwindcss.com/) - A lightweight 3D physics engine written in JavaScript.
+- [`Next.js`](https://nextjs.org/) - The React Framework for Production.
+- [`Framer Motion`](https://www.framer.com/motion/) - A production-ready motion library for React.
+- [`TailwindCSS`](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
 
 ## Getting Started
 
