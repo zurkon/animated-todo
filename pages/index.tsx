@@ -5,7 +5,6 @@ import { nanoid } from 'nanoid'
 import TaskInput from '../components/TaskInput'
 import TaskList from '../components/TaskList'
 import { Task } from '../types'
-import Image from 'next/image'
 import Toggler from '../components/Toggler'
 
 const initialData = [
@@ -62,7 +61,7 @@ const Home: NextPage = () => {
           </div>
           <h1 className="absolute z-10 bottom-1/4 right-[18%] sm:right-1/4 text-xl text-slate-100 font-bold drop-shadow-xl">What&apos;s up, Mate!</h1>
           <div className="flex justify-center">
-            <Image src="/tasker.png" width="300px" height="300px" alt="Task Bot Image" />
+            <img src="/tasker.png" width="300px" height="300px" alt="Task Bot Image" />
           </div>
         </div>
       </header>
